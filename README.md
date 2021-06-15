@@ -26,30 +26,3 @@ y el código del producto llevado en el mensaje.
 productos, varias unidades)
 
 Falta la explicación
-
-## 2. Preguntas:
-**A. Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?**
-
-**R//** En nuestra implementación al problema en Python pudimos observar:
-
-* Que al organizar los prints, de forma errónea, nos arrojaba múltiples respuestas innecesarias para nuestra solución.
-
-* Organizar bien las listas para usarlas, ya que, si no se pedía el dato correcto, daba un error de operaciones entre string e int.
-
-También se puede presentar problemas en esta implementación en otros usuarios en que desconozcan el código como los siguientes:
-
-* Que escriban por accidentes letras donde van números o viceversa.
-
-* No se pueda devolver o cancelar el producto.
-
-* Escribir palabras sin mayúscula o de una forma que el sistema no detecte el descuento o ect.
-
-**B. Que estrategias podría usar para solucionar estos errores?**
-
-**R//** Las estrategias que se podrían usar para solucionar los dichos problemas anteriores serian:
-
-* Que el cliente posea acompañamiento de alguna persona que conozca el código y le pueda colaborar en el proceso.
-
-* Dejar más print con información extra que recalquen como ingresar los datos o de qué manera.
-
-* También poder aplicar las “excepciones” para que permitan facilitar procesos en casos de errores en pantalla.
